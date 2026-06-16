@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+
+# CDK output
+cdk/cdk.out/
+
+# TypeScript compiled output
+cdk/dist/
+
+# Local Claude Code settings (machine-specific permissions)
+.claude/settings.local.json
+
+# OS
+.DS_Store
